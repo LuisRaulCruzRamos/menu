@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MenuContextual</string>
+    <string name="menu_contextual">Menu Contextual</string>
+    <string name="rojo">Rojo</string>
+    <string name="azul">Azul</string>
+    <string name="verde">Verde</string>
+</resources>
